@@ -11,7 +11,7 @@ BOT_TOKEN = "8520755539:AAETOp3_n-6vM9XDDl7JREfQftJCtYdjBPI"
 
 WHATSAPP_NUMBER = "https://wa.me/qr/WZCUKZ7ANGHJN1"
 POTATO_LINK = "https://m.dympt.org/stonerverse"
-MINI_APP_URL = "https://example.com"  # placeholder for now
+MINI_APP_URL = "https://fokaalex007.github.io/stoner-miniapp/"  # placeholder for now
 
 
 bot = Bot(token=BOT_TOKEN)
